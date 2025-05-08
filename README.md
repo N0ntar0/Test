@@ -1,4 +1,6 @@
 # Test
-a
-i
+a  
+i  
+u  
+
 
